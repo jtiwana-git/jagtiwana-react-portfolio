@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/jagtiwana-react-portfolio/static/css/main.625eb263.css",
-    "main.js": "/jagtiwana-react-portfolio/static/js/main.3409ec62.js",
+    "main.js": "/jagtiwana-react-portfolio/static/js/main.e4d85d73.js",
     "static/js/787.fca1809d.chunk.js": "/jagtiwana-react-portfolio/static/js/787.fca1809d.chunk.js",
     "static/media/mcu-deep-diver-demo.gif": "/jagtiwana-react-portfolio/static/media/mcu-deep-diver-demo.a151fb52af8bc4e9246c.gif",
     "static/media/GoodReadMe.gif": "/jagtiwana-react-portfolio/static/media/GoodReadMe.73aa4287cc927261687a.gif",
@@ -13,11 +13,11 @@
     "static/media/Basketball.png": "/jagtiwana-react-portfolio/static/media/Basketball.9d1b7b50c33ff3f9bc3a.png",
     "index.html": "/jagtiwana-react-portfolio/index.html",
     "main.625eb263.css.map": "/jagtiwana-react-portfolio/static/css/main.625eb263.css.map",
-    "main.3409ec62.js.map": "/jagtiwana-react-portfolio/static/js/main.3409ec62.js.map",
+    "main.e4d85d73.js.map": "/jagtiwana-react-portfolio/static/js/main.e4d85d73.js.map",
     "787.fca1809d.chunk.js.map": "/jagtiwana-react-portfolio/static/js/787.fca1809d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.625eb263.css",
-    "static/js/main.3409ec62.js"
+    "static/js/main.e4d85d73.js"
   ]
 }
