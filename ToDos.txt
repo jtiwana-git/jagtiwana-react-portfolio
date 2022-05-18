@@ -1,0 +1,15 @@
+Things to do
+
+Change profile pic to the peaky blinder one
+
+Contact me
+Add code for “vaild” email and “message needs to be inputted”
+
+Change CV button to view CV “not download”
+
+My skills
+Move bullet points to 2 columns (instead of one)
+
+Projects 
+Add technologies use
+Sort out the pagination style

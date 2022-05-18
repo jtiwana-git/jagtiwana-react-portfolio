@@ -1,0 +1,22 @@
+footer{
+    padding: 3rem 0;
+    text-align: center;
+    font-size: 3rem;
+    margin-top: 7rem;
+}
+
+.footer__socials{
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+    margin-bottom: 4rem;
+
+}
+
+/* TABLETS */
+
+@media screen and (max-width: 1024px) {
+    .footer__socials{
+        margin-bottom: 2.6rem;
+    }
+}
