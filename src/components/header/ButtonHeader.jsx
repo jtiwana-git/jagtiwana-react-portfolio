@@ -1,6 +1,6 @@
 import React from 'react'
 import CV from "../../asset/portfolio/JagdeepTiwanaCV.pdf"
-// @ import cv from asset (pdf.file)
+
 
 const ButtonHeader = () => {
   return (
