@@ -1,7 +1,6 @@
 .skill__container {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    gap: 2rem;
+    display: flex;
+    gap: 1rem;
 
 }
 
@@ -16,7 +15,7 @@
 
 .skill__container > div:hover{
     background: transparent;
-    border-color: #1b0000;
+    border-color: #640707;
     cursor: default;
 }
 
@@ -25,12 +24,18 @@
     margin: bottom 2rem;
     color: var(--color-primary);
 }
-/* @01:47:55 - sort out list*/
-.skill__content h4{
+
+.skill__content {
     display: grid;
     grid-template-columns: 1fr 1fr;
     row-gap: 2rem;
 
+
+}
+.skill__details{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 1rem;
 }
 
 .skill_details-icon{

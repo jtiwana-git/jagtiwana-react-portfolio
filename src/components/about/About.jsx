@@ -5,12 +5,12 @@ import ME from '../../asset/portfolio/Basketball.png'
 const About = () => {
   return (
     <section id='about'>
-      <h5>About ME</h5>
+      <h2>About ME</h2>
     
     <div className='container about__container'>
       <div className="about__me">
         <div className="about__me-image">
-          <img src={ME} alt="About image" />
+          <img src={ME} alt="Profile" />
 
        </div>
       </div>
