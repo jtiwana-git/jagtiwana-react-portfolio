@@ -1,21 +1,20 @@
 {
   "files": {
-    "main.css": "/jagtiwana-react-portfolio/static/css/main.eb8d9a37.css",
-    "main.js": "/jagtiwana-react-portfolio/static/js/main.891c44b3.js",
+    "main.css": "/jagtiwana-react-portfolio/static/css/main.823c9b0b.css",
+    "main.js": "/jagtiwana-react-portfolio/static/js/main.d54d93dd.js",
     "static/media/mcu-deep-diver-demo.gif": "/jagtiwana-react-portfolio/static/media/mcu-deep-diver-demo.a151fb52af8bc4e9246c.gif",
     "static/media/GoodReadMe.gif": "/jagtiwana-react-portfolio/static/media/GoodReadMe.73aa4287cc927261687a.gif",
     "static/media/Day-Planner.gif": "/jagtiwana-react-portfolio/static/media/Day-Planner.fc4a0b53aab124886a91.gif",
     "static/media/Hackathon.png": "/jagtiwana-react-portfolio/static/media/Hackathon.7649e52bff409d1796c2.png",
     "static/media/updateProfile.png": "/jagtiwana-react-portfolio/static/media/updateProfile.de4229ac4592e74fde21.png",
     "static/media/NoteTaker.gif": "/jagtiwana-react-portfolio/static/media/NoteTaker.30fa70a6703b1c02d0cb.gif",
-    "static/media/JagdeepTiwanaCV.pdf": "/jagtiwana-react-portfolio/static/media/JagdeepTiwanaCV.4bca7aa43152fd30750c.pdf",
     "static/media/Basketball.png": "/jagtiwana-react-portfolio/static/media/Basketball.9d1b7b50c33ff3f9bc3a.png",
     "index.html": "/jagtiwana-react-portfolio/index.html",
-    "main.eb8d9a37.css.map": "/jagtiwana-react-portfolio/static/css/main.eb8d9a37.css.map",
-    "main.891c44b3.js.map": "/jagtiwana-react-portfolio/static/js/main.891c44b3.js.map"
+    "main.823c9b0b.css.map": "/jagtiwana-react-portfolio/static/css/main.823c9b0b.css.map",
+    "main.d54d93dd.js.map": "/jagtiwana-react-portfolio/static/js/main.d54d93dd.js.map"
   },
   "entrypoints": [
-    "static/css/main.eb8d9a37.css",
-    "static/js/main.891c44b3.js"
+    "static/css/main.823c9b0b.css",
+    "static/js/main.d54d93dd.js"
   ]
 }
