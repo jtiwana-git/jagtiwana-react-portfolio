@@ -4,7 +4,7 @@ import About from './components/about/About'
 import Skill from './components/skill/Skill'
 import Project from './components/project/Project'
 import Contact from './components/contact/Contact'
-import Footer from './components/footer/Footer'
+// import Footer from './components/footer/Footer'
 
 
 function App() {
@@ -17,7 +17,7 @@ function App() {
       <Skill />
       <Project />
       <Contact />
-      <Footer />
+
       
       
     </>

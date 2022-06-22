@@ -22,10 +22,30 @@
     overflow: hidden;
 }
 
+.swipe{
+    text-align: center;
+}
+
 .project__item h3{
 margin: 1.2rem 0 2rem;
 text-align: center;
 }
+
+.project__title{
+    margin-top: 0.7rem;
+    justify-content: center;
+    display: flex;
+    gap: 2rem;
+}
+.title__bold, .description__bold{
+    font-weight: bold;
+}
+
+#bullet__description{
+    gap: 2rem;    
+    list-style: circle;
+}
+
 
 .project__item-cta{
     display: flex;

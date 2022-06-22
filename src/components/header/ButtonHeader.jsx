@@ -1,12 +1,11 @@
 import React from 'react'
-import CV from "../../asset/portfolio/JagdeepTiwanaCV.pdf"
+
 
 
 const ButtonHeader = () => {
   return (
     <div className='ButtonHeader'>
-        {/* <a href='{file} download'>Download CV</a> */}
-        <a href={CV} className='btn' download>Download CV</a> 
+        <a href='https://docs.google.com/document/d/18fq0WoxS_JaK0p2OPNoEX7OOIIPa9EHq/edit' target="_blank" rel="noopener noreferrer" className='btn'>Link to CV</a> 
         <a href='#contact' className='btn btn-primary' >Contact Me</a>
 
     </div>

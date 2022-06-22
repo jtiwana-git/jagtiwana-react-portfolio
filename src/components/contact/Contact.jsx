@@ -1,40 +1,26 @@
 import React from 'react'
 import './contact.css'
+import {AiFillGithub} from 'react-icons/ai'
+import {SiLinkedin, SiSlack} from 'react-icons/si'
 import {MdOutlineMail} from 'react-icons/md'
-import {FaWhatsappSquare} from 'react-icons/fa'
+
 
 const Contact = () => {
   return (
     <section id='contact'>
+      <div className='contact__headers'>
      <h2>Contact Me</h2>
-    <div className='container contact__container'>
-      <div className="contact options">
-        <article className='contact__option'>
-          <MdOutlineMail className='contact__option-icon'/>
-          <h4>Email</h4>
-          <h5>jtiwana@hotmail.com</h5>
-          <a href='mailto:jtiwana@hotmail.com' target='_blank' rel="noreferrer"> Send a message</a>
-        </article>
-        <article className='contact__option'>
-          <FaWhatsappSquare className='contact__option-icon'/>
-          <h4>WhatsApp NOT WORKING</h4>
-          <a href='https://wa.me/447949480188' target='_blank' rel="noreferrer"> Send a message</a>
-        </article>
-      </div>
-      {/* END OF CONTACT OPTIONS */}
-      <form action="">
-      <input type='text' name='name' placeholder='Name' required /> 
-      <input type='email' name='email' placeholder='Email' required /> 
-      <textarea name='message' rows='7' placeholder='Your Message' required ></textarea>
-      <button type='submit' className='btn btn-primary'>Send Message</button>
-
-      </form>
-
-    </div>
-
-
+       <h6>jtiwana@hotmail.com</h6>
+       </div>
+     <div className='contact_icon'>
+   <a href='https://github.com/jtiwana-git'><AiFillGithub className='contact_icon'/></a>
+   <a href='https://www.linkedin.com/in/jagdeep-tiwana-02954a226/'><SiLinkedin className='contact_icon'/></a>
+   <a href='https://slack.com/app_redirect?app=U02P8MD2SHE'><SiSlack className='contact_icon'/></a>
+   <a href='mailto:jtiwana@hotmail.com' ><MdOutlineMail className='contact_icon'/></a>
+   </div>
     </section>
   )
+    
 }
 
 export default Contact

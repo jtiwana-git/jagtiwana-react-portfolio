@@ -2,7 +2,6 @@ import React from 'react'
 import './header.css'
 import ButtonHeader from './ButtonHeader'
 import ME from '../../asset/portfolio/updateProfile.png'
-import HeaderSocials from './HeaderSocials'
 
 const Header = () => {
   return (
@@ -12,10 +11,7 @@ const Header = () => {
         <h5 className="text-light">Junior Web Developer</h5>
         <ButtonHeader />
 
-        {/* REMOVE -CHECK PLUS FILE */}
-        {/* <HeaderSocials /> */}
-        
-        <div className="me">
+         <div className="me">
           <img src={ME} alt="Me" />
         </div>
 
